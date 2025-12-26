@@ -35,32 +35,31 @@ which is treated as a design feature rather than a limitation.
 
 <hr>
 
-<h2>📂 Document Corpus & Extensibility</h2>
+<h3>📂 Recommended Papers to Expand the Corpus</h3>
+
 <p>
-The retriever’s performance improves directly with the addition of more high-quality,
-domain-relevant papers. To expand coverage of LLM architecture concepts, the following
-papers are recommended additions to the document folder:
+The following papers are recommended additions to improve coverage of
+LLM architectures, scaling behavior, alignment, and retrieval-based systems.
+These papers complement the existing corpus without overlapping with it.
 </p>
 
 <ul>
-  <li>Attention Is All You Need (Vaswani et al.)</li>
-  <li>BERT: Pre-training of Deep Bidirectional Transformers</li>
-  <li>Language Models are Few-Shot Learners (GPT-3)</li>
+  <li>Improving Language Understanding by Generative Pre-Training (GPT-1)</li>
   <li>Training Language Models to Follow Instructions (InstructGPT)</li>
   <li>PaLM: Scaling Language Modeling with Pathways</li>
   <li>OPT: Open Pre-trained Transformer Language Models</li>
   <li>LLaMA: Open and Efficient Foundation Language Models</li>
   <li>Switch Transformers: Scaling to Trillion Parameter Models</li>
-  <li>Improving Language Understanding by Generative Pre-Training (GPT-1)</li>
+  <li>Scaling Laws for Neural Language Models</li>
   <li>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</li>
+  <li>Improving Factuality and Reasoning in Language Models through Retrieval</li>
+  <li>Self-Consistency Improves Chain-of-Thought Reasoning in Language Models</li>
 </ul>
 
 <p>
-Adding these papers to the document folder will directly improve retrieval quality,
-answer completeness, and conceptual coverage.
+Adding these papers increases architectural diversity and improves the retriever’s
+ability to answer questions related to scaling, efficiency, alignment, and retrieval-enhanced reasoning.
 </p>
-
-<hr>
 
 <h2>🧪 Evaluation Utility</h2>
 <p>
