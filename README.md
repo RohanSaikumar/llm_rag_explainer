@@ -99,3 +99,10 @@ This project demonstrates a modular, grounded RAG system where
 <b>data quality and coverage drive performance</b>,
 mirroring real-world retrieval-based AI systems.
 </p>
+
+<h2>Author</h2>
+<p>
+<b>Rohan Saikumar</b>
+</p>
+<
+<h2>📌 Key Takeaway</h2>
