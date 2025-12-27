@@ -104,5 +104,4 @@ mirroring real-world retrieval-based AI systems.
 <p>
 <b>Rohan Saikumar</b>
 </p>
-<
-<h2>📌 Key Takeaway</h2>
+
